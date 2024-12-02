@@ -1,4 +1,4 @@
-(![Black White Grayscale Portfolio Presentation](https://github.com/user-attachments/assets/0bee1b1e-89ba-4044-b782-22652b78ec1c)
+![Black White Grayscale Portfolio Presentation](https://github.com/user-attachments/assets/0bee1b1e-89ba-4044-b782-22652b78ec1c)
 
 Bienvenue sur mon profil GitHub
 
