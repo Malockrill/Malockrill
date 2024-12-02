@@ -6,6 +6,7 @@ Bienvenue sur mon profil GitHub
 Bonjour ! Je suis Malorie Fernandez, une développeuse passionnée par l'informatique. 
 Je suis en premiere année de bachelor informatique, j'ai travaillé sur divers projets et acquis des compétences en [langages, frameworks, outils].
 
+
  À propos de moi:
 
 - Nom : Fernandez
@@ -14,6 +15,8 @@ Je suis en premiere année de bachelor informatique, j'ai travaillé sur divers 
 - Email : malorie.fernandez06@gmail.com
 - LinkedIn : https://www.linkedin.com/in/malorie-fernandez-20b3b9311/
 - Portfolio : (None)
+
+  
 
 Compétences :
 
@@ -28,6 +31,26 @@ Secteur de l'animalier..
 - Entretien
 - Soins des animaux
 
+  
+
+Mes projets :
+
+Projet 1
+
+Description : Passeword Project.
+
+Technologies utilisées : Python
+
+Lien : [Lien vers le projet Passeword Project](https://github.com/Malockrill/ProjetPass/blob/main/main.py)
+
+
+Projet 2
+
+Description : Git Begins.
+
+Technologies utilisées : Git
+
+Lien : [Lien vers le projet Git Begins](https://github.com/votre-utilisateur/projet2)
 
 
 
