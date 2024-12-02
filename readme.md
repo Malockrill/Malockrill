@@ -1,4 +1,4 @@
-(https://github.com/Malockrill/Malockrill/blob/c264f2803cb3636fb9df4a8123b2ffeea2323c4e/Black%20White%20Grayscale%20Portfolio%20Presentation.pdf)
+(![Black White Grayscale Portfolio Presentation](https://github.com/user-attachments/assets/0bee1b1e-89ba-4044-b782-22652b78ec1c)
 
 Bienvenue sur mon profil GitHub
 
