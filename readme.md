@@ -20,16 +20,10 @@ Je suis en premiere année de bachelor informatique, j'ai travaillé sur divers 
 
 Compétences :
 
-Secteur du secrétariat..
-- Maitrise de l'ordinateur
-- Receptionner un produit
-
-Secteur de l'animation..
-- Activités manuelles
-
-Secteur de l'animalier..
-- Entretien
-- Soins des animaux
+Communication écrite : Capacité à rédiger des rapports, des emails et des documents de manière claire et concise. 
+Créativité : Capacité à générer des idées nouvelles et innovantes. 
+Fiabilité : Aptitude à être ponctuel et à respecter les délais. 
+Organisation : Capacité à structurer et à planifier des tâches et des projets de manière efficace.
 
   
 
@@ -44,13 +38,6 @@ Technologies utilisées : Python
 Lien : [Lien vers le projet Passeword Project](https://github.com/Malockrill/ProjetPass/blob/main/main.py)
 
 
-Projet 2
-
-Description : Git Begins.
-
-Technologies utilisées : Git
-
-Lien : [Lien vers le projet Git Begins](https://github.com/votre-utilisateur/projet2)
 
 
 
