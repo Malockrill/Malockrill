@@ -27,15 +27,7 @@ Organisation : Capacité à structurer et à planifier des tâches et des projet
 
   
 
-Mes projets :
 
-Projet 1
-
-Description : Passeword Project.
-
-Technologies utilisées : Python
-
-Lien : [Lien vers le projet Passeword Project](https://github.com/Malockrill/ProjetPass/blob/main/main.py)
 
 
 
